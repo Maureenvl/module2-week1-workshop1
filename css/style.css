@@ -1,0 +1,87 @@
+h1{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:red;
+    text-align: center;
+
+    
+}
+
+body{
+    background-image:url(../img/tesla-\ -wallpaper.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#persoon{
+    width:340px;
+    border-color: ghostwhite;
+    border-radius: 10%;
+    margin-left: 100px;
+
+}
+#logo1{
+    width: 250px;
+    margin-right: 10px;
+
+}
+
+
+
+
+h2{
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:ghostwhite;
+    text-align: center;
+
+
+}
+#test{
+    width:340px;
+    height: 500px;
+    margin-right: 55px;
+    margin-left:85px;
+}
+
+#test2{
+    width:340px;
+    height: 500px;
+    margin-right: 55px;
+}
+#test3{
+    width:340px;
+    height: 500px;
+
+}
+
+
+
+h3{
+    color:ghostwhite;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+#huis{
+margin-left: 200px;
+width:350px;
+height: 300px;
+margin-right: 100px;
+
+
+}
+#huis-bovenkant{
+    width:370px;
+    height: 295px;
+    
+}
+
+footer{
+    font-size: 60px;
+    text-align: center;
+    color:ghostwhite
+}
